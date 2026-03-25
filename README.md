@@ -830,10 +830,5 @@ The GitHub and Shodan APIs used here operate entirely on **publicly available in
 
 ---
 
-## 📄 License
-
-MIT License — see `LICENSE` for details.
-
----
 
 *Built with Node.js, Express, MongoDB, node-cron, Nodemailer, and the GitHub & Shodan APIs.*
